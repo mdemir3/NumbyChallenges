@@ -1,0 +1,5 @@
+import numpy as np
+l=[12.23,13.32,100,36.32]
+print("Original list:", l)
+a=np.array(1)
+print("One-dimensional Numpy array: " , a)
